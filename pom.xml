@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <artifactId>exi-stream-parent</artifactId>
+    <groupId>uk.co.devexe</groupId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>exi-stream</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <inceptionYear>2016</inceptionYear>
+  <modules>
+    <module>exi-stream-domain</module>
+    <module>exi-stream-parent</module>
+    <module>exi-stream-service</module>
+  </modules>
+</project>
